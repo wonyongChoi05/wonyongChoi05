@@ -37,5 +37,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <div>
     
-<img width="1200" height = "400" src="https://user-images.githubusercontent.com/94087228/170761517-03e15a5d-155c-426e-9a66-9eec4e501977.gif"/>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+<img width="1200" height = "250" src="https://user-images.githubusercontent.com/94087228/170761517-03e15a5d-155c-426e-9a66-9eec4e501977.gif"/>
+
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer) -->
