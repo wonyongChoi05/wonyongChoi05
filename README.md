@@ -2,7 +2,7 @@
 
 <a href="https://github.com/wonyongChoi05"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FwonyongChoi05&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
-<img width="150%" src="https://user-images.githubusercontent.com/94087228/170761517-03e15a5d-155c-426e-9a66-9eec4e501977.gif"/>
+<img width="200" src="https://user-images.githubusercontent.com/94087228/170761517-03e15a5d-155c-426e-9a66-9eec4e501977.gif"/>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
