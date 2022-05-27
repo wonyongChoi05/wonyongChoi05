@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonyongChoi05)](https://github.com/wonyongChoi05/github-readme-stats)
        
        
-       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongChoi05)](https://github.com/wonyongChoi05/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongChoi05)](https://github.com/wonyongChoi05/github-readme-stats)
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 
