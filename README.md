@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=nyong&fontSize=90&animation=twinkling" />
 > I ❤️ BackEndDev
-<!-- 
-<img width="1200" height = "400" src="https://user-images.githubusercontent.com/94087228/170761517-03e15a5d-155c-426e-9a66-9eec4e501977.gif"/>
- -->
+
 <a href="https://github.com/wonyongChoi05"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FwonyongChoi05&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -39,4 +37,5 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <div>
     
+<img width="1200" height = "400" src="https://user-images.githubusercontent.com/94087228/170761517-03e15a5d-155c-426e-9a66-9eec4e501977.gif"/>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
