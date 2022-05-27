@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=Hi, I'm wonyongChoi👋 &fontSize=90&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=nyong&fontSize=90&animation=twinkling" />
 > I ❤️ BackEndDev
 
 <img width="1200" height = "400" src="https://user-images.githubusercontent.com/94087228/170761517-03e15a5d-155c-426e-9a66-9eec4e501977.gif"/>
