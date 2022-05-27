@@ -13,4 +13,4 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-<img src="https://img.shields.io/badge/Intelli_IDEA-000000?style=for-the-badge&logo=IntelliJ_IDEA&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
