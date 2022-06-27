@@ -37,10 +37,10 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwnsduftlagl)](https://solved.ac/qorwnsduftlagl)
   <div>
 <!--     
 <img width="1200" height = "250" src="https://user-images.githubusercontent.com/94087228/170761517-03e15a5d-155c-426e-9a66-9eec4e501977.gif"/>
  -->
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer) -->
-    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwnsduftlagl)](https://solved.ac/qorwnsduftlagl)
