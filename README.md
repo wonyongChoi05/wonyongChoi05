@@ -2,7 +2,7 @@
 <div>
   
 <p align="center">
-> I ❤️ Learning && BackEndDev
+<b> I ❤️ Learning && BackEndDev</b>
 </p>
   
 <p align="center">
