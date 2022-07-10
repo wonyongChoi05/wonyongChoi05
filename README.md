@@ -13,9 +13,14 @@
 <div>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nyong_i&color=dark)](https://github.com/wonyongChoi05/velog-readme-stats) <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongChoi05&theme=github_dark&show_icons=true)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongChoi05&theme=github_dark&show_icons=true)<br><br>
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwnsduftlagl)](https://solved.ac/qorwnsduftlagl)
 
+</p>
 </div>
 
   
