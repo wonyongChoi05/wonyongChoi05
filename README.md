@@ -7,7 +7,7 @@
 </p>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=nyong_i)](https://velog.io/@nyong_i) 
-### 하이 👋
+### 안녕하세요 👋
 </span>
 
 <div>
