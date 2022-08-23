@@ -15,7 +15,7 @@
 <!-- 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nyong_i&color=dark)](https://github.com/wonyongChoi05/velog-readme-stats) &nbsp;&nbsp;&nbsp;
 -->
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwnsduftlagl)](https://solved.ac/qorwnsduftlagl) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qorwnsduftlagl)](https://solved.ac/qorwnsduftlagl)
 
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonyongChoi05&theme=github_dark&show_icons=true)<br><br>
