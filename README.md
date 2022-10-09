@@ -17,7 +17,7 @@
 
 <div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qorwnsduftlagl)](https://solved.ac/qorwnsduftlagl/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qorwnsduftlagl)](https://solved.ac/qorwnsduftlagl/) -->
 </p>
 
 
