@@ -12,7 +12,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=300&color=58A6FF&background=FFFFFF00&width=435&lines=Stockdale+Paradox;Woowahan+Developer" alt="Typing SVG" /></a>
 
 <!-- 도커 고래.. -->
- ![](https://velog.velcdn.com/images/nyong_i/post/d703f792-322c-4c06-840b-6949622818c1/image.gif)
+ <!-- ![](https://velog.velcdn.com/images/nyong_i/post/d703f792-322c-4c06-840b-6949622818c1/image.gif)-->
 </div>
   
 </span>
