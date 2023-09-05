@@ -22,8 +22,7 @@
 
 ## :octocat: Contributions
 ### Tomcat
-* PR - https://github.com/apache/tomcat/pull/651
+* [PR](https://github.com/apache/tomcat/pull/651)
   * Refactor SSL certificate population method
-* For Commit - https://github.com/apache/tomcat/commit/f650ea788df8067baa4267ac4df806ba1bff1853
-
-
+* [Commit](https://github.com/apache/tomcat/commit/f650ea788df8067baa4267ac4df806ba1bff1853)
+  * Simplify code. Implementation of additional certificates for null values
