@@ -20,7 +20,7 @@
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qorwnsduftlagl)](https://solved.ac/qorwnsduftlagl/) -->
 
-## OpenSource Contributions
+## :octocat: Contributions
 ### Tomcat
 * PR - https://github.com/apache/tomcat/pull/651
   * Refactor SSL certificate population method
