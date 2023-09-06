@@ -20,10 +20,14 @@
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qorwnsduftlagl)](https://solved.ac/qorwnsduftlagl/) -->
 
-<!-- ## :octocat: Contributions
+## :octocat: Contributions
 ### Apache Tomcat
-* [PR](https://github.com/apache/tomcat/pull/651) (Closed)
+* [PR #651](https://github.com/apache/tomcat/pull/651) (Closed)
   * Refactor SSL certificate population method
-* [Commit](https://github.com/apache/tomcat/commit/f650ea788df8067baa4267ac4df806ba1bff1853) (Based on [PR](https://github.com/apache/tomcat/pull/651))
-  * Simplify code. Implementation of additional certificates for null values
--->
+  * [Commit](https://github.com/apache/tomcat/commit/f650ea788df8067baa4267ac4df806ba1bff1853) (Based on [PR](https://github.com/apache/tomcat/pull/651))
+    * Simplify code. Implementation of additional certificates for null values
+
+* [PR #662](https://github.com/apache/tomcat/pull/662) (Merged)
+  * Simplify and enhance charset extraction from content type
+  * [Commit](https://github.com/apache/tomcat/commit/a2ec03a34276792b42f66182c407f2f8c791dcc1)
+    * Using MediaType to comply with specifications
