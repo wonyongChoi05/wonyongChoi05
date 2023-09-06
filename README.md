@@ -29,5 +29,5 @@
 
 * [PR #662](https://github.com/apache/tomcat/pull/662) (Merged)
   * Simplify and enhance charset extraction from content type
-  * [Commit](https://github.com/apache/tomcat/commit/a2ec03a34276792b42f66182c407f2f8c791dcc1)
-    * Using MediaType to comply with specifications
+  <!-- * [Commit](https://github.com/apache/tomcat/commit/a2ec03a34276792b42f66182c407f2f8c791dcc1) -->
+  <!-- * Using MediaType to comply with specifications -->
