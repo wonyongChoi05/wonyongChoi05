@@ -23,9 +23,12 @@
 ## :octocat: Contributions
 ### Apache Tomcat
 * [[PR #651](https://github.com/apache/tomcat/pull/651)] Refactor SSL certificate population method
+  * Concise and readable, and it efficiently processes X.509 certificates.
+  * Using an ArrayList for dynamic array management.
+  * Removing the unnecessary null check
   * [Commit](https://github.com/apache/tomcat/commit/f650ea788df8067baa4267ac4df806ba1bff1853) (Based on [PR](https://github.com/apache/tomcat/pull/651))
     * Simplify code. Implementation of additional certificates for null values
 
 * [[PR #662](https://github.com/apache/tomcat/pull/662)] Simplify and enhance charset extraction from content type
-  <!-- * [Commit](https://github.com/apache/tomcat/commit/a2ec03a34276792b42f66182c407f2f8c791dcc1) -->
-  <!-- * Using MediaType to comply with specifications -->
+  * Implement the requirements of RFC 9110
+  * Improvement in code readability
