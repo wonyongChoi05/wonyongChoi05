@@ -23,7 +23,7 @@
 ## :octocat: Contributions
 ### Apache Tomcat
 * [[PR #651](https://github.com/apache/tomcat/pull/651)] Refactor SSL certificate population method
-  * [Commit](https://github.com/apache/tomcat/commit/f650ea788df8067baa4267ac4df806ba1bff1853) (Based on [PR](https://github.com/apache/tomcat/pull/651))
+  * [Commit](https://github.com/apache/tomcat/commit/f650ea788df8067baa4267ac4df806ba1bff1853) Based on [PR](https://github.com/apache/tomcat/pull/651)
     * Simplify code. Implementation of additional certificates for null values
   * Concise and readable, and it efficiently processes X.509 certificates.
   * Using an ArrayList for dynamic array management.
