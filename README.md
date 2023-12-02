@@ -25,5 +25,6 @@
   * [Commit](https://github.com/apache/tomcat/commit/f650ea788df8067baa4267ac4df806ba1bff1853) Based on [PR](https://github.com/apache/tomcat/pull/651)
     * Simplify code. Implementation of additional certificates for null values
   * Concise and readable, and it efficiently processes X.509 certificates.
-<!--    * Using an ArrayList for dynamic array management.
-    * Removing the unnecessary null check -->
+
+## :octocat: Tecoble
+* [JPA가 Fetch Join에 대한 On절을 지원하지 않는 이유](https://tecoble.techcourse.co.kr/post/2023-11-01-jpa-fetch-join/)
