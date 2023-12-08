@@ -26,5 +26,13 @@
     * Simplify code. Implementation of additional certificates for null values
   * Concise and readable, and it efficiently processes X.509 certificates.
 
-## :octocat: Tecoble
+## :octocat: Activities
+### Woowacourse
+#### Tecoble
 * [JPA가 Fetch Join에 대한 On절을 지원하지 않는 이유](https://tecoble.techcourse.co.kr/post/2023-11-01-jpa-fetch-join/)
+
+#### Tecotalk
+* [Youtube - 베베, 허브의 성능 테스트](https://www.youtube.com/watch?v=3cTn53dtzJI)
+
+#### Pro-log
+* [Prolog](https://github.com/woowacourse/prolog)
