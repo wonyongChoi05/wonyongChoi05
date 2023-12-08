@@ -31,7 +31,6 @@
 * [Tecoble](https://tecoble.techcourse.co.kr/post/2023-11-01-jpa-fetch-join/)
   * JPA가 Fetch Join에 대한 On절을 지원하지 않는 이유
 * [Tecotalk](https://www.youtube.com/watch?v=3cTn53dtzJI)
-  * Youtube - 베베, 허브의 성능 테스트
   * 우아한테크코스에서 진행한 테코톡 발표
 * [Pro-log](https://github.com/woowacourse/prolog)
   * 우아한테크코스 크루들이 배운 내용을 기록하는 학습로그 저장소
