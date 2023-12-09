@@ -30,7 +30,7 @@
   * Concise and readable, and it efficiently processes X.509 certificates.
 
 ## :octocat: Activities
-### Woowacourse
+### woowacourse
 * [Tecoble](https://tecoble.techcourse.co.kr/post/2023-11-01-jpa-fetch-join/)
   * JPA가 Fetch Join에 대한 On절을 지원하지 않는 이유
 * [Tecotalk](https://www.youtube.com/watch?v=3cTn53dtzJI)
