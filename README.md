@@ -1,14 +1,8 @@
 ## :octocat: Introduction
 <span>
-<p align="right">
-  <a href="https://github.com/wonyongChoi05"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FwonyongChoi05&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)"/>
-  </a>
-</p>
-  
 <div>
 <!-- 우아한 디벨로퍼 텍스트 -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=300&color=58A6FF&background=FFFFFF00&width=435&lines=Stockdale+Paradox;Woowahan+Developer" alt="Typing SVG" /></a>
-
 </div>
 
 안녕하세요 최원용입니다. 개발과 혁신적인 것 그리고 적당한 추상화를 좋아합니다. 간단한 미들웨어를 직접 구현하는 것에도 관심있습니다.
