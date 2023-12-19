@@ -5,7 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&color=58A6FF&background=FFFFFF00&random=false&width=435&lines=Stockdale+Paradox;Data+Engineer" alt="Typing SVG" />
 </a>
   
-안녕하세요 최원용(19yo)입니다. 개발과 혁신적인 것 그리고 적당한 추상화를 좋아합니다. 간단한 미들웨어를 직접 구현하는 것에도 관심있습니다.
+안녕하세요 최원용(19yo)입니다. 문제를 해결하는 것과 혁신적인 것 그리고 적당한 추상화를 좋아합니다. 간단한 미들웨어를 직접 구현하는 것에도 관심있습니다.
+
 * 토스 Data Platform Team
   * 2024.01. ~
 * 우아한테크코스 5기
@@ -32,5 +33,5 @@
   * JPA가 Fetch Join에 대한 On절을 지원하지 않는 이유
 * [Tecotalk](https://www.youtube.com/watch?v=3cTn53dtzJI)
   * 우아한테크코스에서 진행한 테코톡 발표
-* [Pro-log](https://github.com/woowacourse/prolog)
+* [pro-log](https://github.com/woowacourse/prolog)
   * 우아한테크코스 크루들이 배운 내용을 기록하는 학습로그 저장소
