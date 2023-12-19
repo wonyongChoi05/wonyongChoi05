@@ -14,18 +14,6 @@
 문제를 해결하는 것과 혁신적인 것 그리고 적당한 추상화를 좋아합니다. 또한 간단한 미들웨어를 직접 구현하는 것에도 관심이 있습니다.
 </span>
 
-
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qorwnsduftlagl)](https://solved.ac/qorwnsduftlagl/) -->
-
-## :octocat: Contributions
-### Apache Tomcat
-* [[PR #662](https://github.com/apache/tomcat/pull/662)] Simplify and enhance charset extraction from content type
-  * Implement the requirements of RFC 9110
-  * Improvement in code readability
-* [[PR #651](https://github.com/apache/tomcat/pull/651)] Refactor SSL certificate population method - [Commit](https://github.com/apache/tomcat/commit/f650ea788df8067baa4267ac4df806ba1bff1853) Based on [PR](https://github.com/apache/tomcat/pull/651)
-  * Simplify code. Implementation of additional certificates for null values
-  * Concise and readable, and it efficiently processes X.509 certificates.
-
 ## :octocat: Activities
 * 토스 Data Platform Team
   * 2024.01. ~
@@ -37,3 +25,12 @@
   * [[prolog](https://github.com/woowacourse/prolog)] 우아한테크코스 크루들이 배운 내용을 기록하는 학습로그 저장소
 * 부산소프트웨어마이스터고등학교
   * 2021.03. ~ 2023.01.
+
+## :octocat: Contributions
+### Apache Tomcat
+* [[PR #662](https://github.com/apache/tomcat/pull/662)] Simplify and enhance charset extraction from content type
+  * Implement the requirements of RFC 9110
+  * Improvement in code readability
+* [[PR #651](https://github.com/apache/tomcat/pull/651)] Refactor SSL certificate population method - [Commit](https://github.com/apache/tomcat/commit/f650ea788df8067baa4267ac4df806ba1bff1853) Based on [PR](https://github.com/apache/tomcat/pull/651)
+  * Simplify code. Implementation of additional certificates for null values
+  * Concise and readable, and it efficiently processes X.509 certificates.
