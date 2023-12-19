@@ -1,10 +1,10 @@
 ## :octocat: Introduction
 <span>
 <div>
-<!-- 우아한 디벨로퍼 텍스트 -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=300&color=58A6FF&background=FFFFFF00&width=435&lines=Stockdale+Paradox;Woowahan+Developer" alt="Typing SVG" /></a>
-</div>
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&color=58A6FF&background=FFFFFF00&random=false&width=435&lines=Stockdale+Paradox;Data+Engineer" alt="Typing SVG" />
+</a>
+  
 안녕하세요 최원용(19yo)입니다. 개발과 혁신적인 것 그리고 적당한 추상화를 좋아합니다. 간단한 미들웨어를 직접 구현하는 것에도 관심있습니다.
 * 토스 Data Platform Team
   * 2024.01. ~
