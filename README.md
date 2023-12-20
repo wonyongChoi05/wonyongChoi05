@@ -19,10 +19,10 @@
   * 2024.01. ~
 * 우아한테크코스 5기
   * 2023.02. ~ 2023.11.
-  * [2023-zipgo](https://github.com/woowacourse-teams/2023-zipgo) 🦮 초보 집사의 반려동물 식품 선택을 도와주는 서비스, 집사의고민🚶🏻‍♀️
-  * [Tecoble](https://tecoble.techcourse.co.kr/post/2023-11-01-jpa-fetch-join/) JPA가 Fetch Join에 대한 On절을 지원하지 않는 이유
-  * [Tecotalk](https://www.youtube.com/watch?v=3cTn53dtzJI) 우아한테크코스에서 진행한 테코톡 발표
-  * [prolog](https://github.com/woowacourse/prolog) 우아한테크코스 크루들이 배운 내용을 기록하는 학습로그 저장소
+  * [초보 집사의 반려동물 식품 선택을 도와주는 서비스, 집사의고민](https://github.com/woowacourse-teams/2023-zipgo)
+  * [JPA가 Fetch Join에 대한 On절을 지원하지 않는 이유](https://tecoble.techcourse.co.kr/post/2023-11-01-jpa-fetch-join/)
+  * [베베, 허브의 성능 테스트](https://www.youtube.com/watch?v=3cTn53dtzJI)
+  * [우아한테크코스 크루들이 배운 내용을 기록하는 학습로그 저장소](https://github.com/woowacourse/prolog)
 * 부산소프트웨어마이스터고등학교
   * 2021.03. ~ 2023.01.
 
