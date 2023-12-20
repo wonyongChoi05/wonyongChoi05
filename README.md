@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&color=58A6FF&background=FFFFFF00&random=false&width=435&lines=Stockdale+Paradox;Data+Engineer" alt="Typing SVG" />
 </a>
 
-안녕하세요 최원용(19yo)입니다.
+안녕하세요 최원용입니다.
 * 이끌거나, 따르거나, 떠나거나라는 말을 모토로 팀에 잘 융화될 수 있도록 노력합니다.
   * 기술적 토론을 즐기며 팀을 설득하는 것을 좋아하지만, 팀의 결정을 따르는 것 또한 좋아합니다.
 * 언어와 프레임워크는 조직의 목표를 달성하기 위한 수단일 뿐이라고 생각합니다.
