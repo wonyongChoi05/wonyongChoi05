@@ -9,7 +9,7 @@
 </span>
 
 ## :octocat: Activities
-* Toss Data Platform Team - Data Engineer
+* Data Engineer - Toss Data Platform Team
   * 2024.01. ~
 * Woowacourse 5th BE
   * 2023.02. ~ 2023.11.
