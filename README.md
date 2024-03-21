@@ -9,9 +9,9 @@
 </span>
 
 ## :octocat: Activities
-* Data Engineer - Toss Data Platform Team
+* Data Engineer at Toss
   * 2024.01. ~
-* Woowacourse 5th BE
+* 우아한테크코스 5기 BE
   * 2023.02. ~ 2023.11.
 
 ## :octocat: Contributions
