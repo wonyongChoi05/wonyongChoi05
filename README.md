@@ -1,3 +1,4 @@
+<!--
 ## :octocat: Introduction
 <span>
 <div>
@@ -8,14 +9,6 @@
 안녕하세요 최원용입니다. 문제를 해결하는 것과 혁신적인 것 그리고 적당한 추상화를 좋아합니다. 미들웨어를 직접 구현하는 것에도 관심 있습니다.
 </span>
 
-<!--
-## :octocat: Activities
-* Data Engineer at Toss
-  * 2024.01. ~
-* 우아한테크코스 5기 BE
-  * 2023.02. ~ 2023.11.
--->
-
 ## :octocat: Contributions
 ### Apache Tomcat
 * [[PR #662](https://github.com/apache/tomcat/pull/662)] Simplify and enhance charset extraction from content type
@@ -24,3 +17,4 @@
 * [[PR #651](https://github.com/apache/tomcat/pull/651)] Refactor SSL certificate population method - [Commit](https://github.com/apache/tomcat/commit/f650ea788df8067baa4267ac4df806ba1bff1853) Based on [PR](https://github.com/apache/tomcat/pull/651)
   * Simplify code. Implementation of additional certificates for null values
   * Concise and readable, and it efficiently processes X.509 certificates.
+-->
