@@ -8,13 +8,6 @@
 안녕하세요 최원용입니다. 문제를 해결하는 것과 혁신적인 것 그리고 적당한 추상화를 좋아합니다.
 </span>
 
-
-## :octocat: Activities
-* Viva Republica(Toss)
-  * 2024.01. ~
-* 우아한테크코스 5기
-  * 2023.02. ~ 2023.11.
-
 ## :octocat: Contributions
 ### Apache Tomcat
 * [[PR #662](https://github.com/apache/tomcat/pull/662)] Simplify and enhance charset extraction from content type
