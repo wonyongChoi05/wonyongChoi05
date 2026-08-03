@@ -6,7 +6,7 @@
   </a>
 </div>
 
-- Data Engineer @toss
+- Data Engineer at @toss
 - Exploring distributed stream processing
 - Ask me any questions you want
 - contact rltgjqmduftlagl@gmail.com
