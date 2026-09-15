@@ -8,5 +8,5 @@
 
 - Data Engineer at @toss
 - Exploring distributed stream processing and serving big data
-- If you want contact rltgjqmduftlagl@gmail.com
+- If you want, contact rltgjqmduftlagl@gmail.com
 </span>
